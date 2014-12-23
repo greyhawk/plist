@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.scpii.aries.fixios8</string>
+				<string>com.scpii.aries.fixios9</string>
 				<key>bundle-version</key>
 				<string>1.2.6</string>
 				<key>kind</key>
